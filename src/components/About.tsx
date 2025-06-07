@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function About() {
     return (
     <section>
@@ -11,8 +9,8 @@ export default function About() {
             <h1 className="lg:text-3xl text-xl text-center font-semibold mb-4">About Me 🧑‍💻 </h1>
             <p className="lg:text-xl/8 text-md/8 max-w-200 lg:mx-auto opacity-80">
               Hi, I'm Afham. I'm currently pursuing my Bachelor's in Computer Science (Hons.) at MMU.
-              Specializing in Cybersecurity, I’m also passionate about Software Development and InfoSec.
-              My dream is to work at top companies such as Microsoft and Mercari — and I’m committed to making it happen.
+              Specializing in Cybersecurity, I'm also passionate about Software Development and InfoSec.
+              My dream is to work at top companies such as Microsoft and Mercari — and I'm committed to making it happen.
             </p>
         </section>
     </section>  
